@@ -1,0 +1,29 @@
+.Launches {
+    height: 100vh;
+    background-color: #ececec;
+    width: 350px;
+    overflow: hidden auto;
+    cursor: pointer;
+}
+    .Launches li {
+        list-style: none;
+        color: black;
+        font-family:Algerian;
+        padding-top:1em;
+    }
+
+.LaunchDetail {
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+}
+.images{
+    width:200px;
+    height:200px;
+    display:inline-flex;
+    margin-left:4em;
+    margin-top:2em;
+}
+.mainDiv{
+    display:flex;
+}
