@@ -27,3 +27,25 @@
 .mainDiv{
     display:flex;
 }
+
+.details {
+    margin: 0 auto;
+    text-align:center;
+    width: 284px;
+    padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-bottom:2em;
+}
+    .details + div {
+        margin: 0 auto;
+        padding: 20px 30px 30px 20px;
+        width: 900px;
+        text-align: center;
+        border: 1px solid #BFBFBF;
+        background-color: white;
+        box-shadow: 10px 10px 5px #aaaaaa;
+        margin-bottom: 2em;
+        background-image: linear-gradient(to right, white, #91d7e7)
+    }

@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\components",
     "\\src\\components\\launchDetails",
+    "\\src\\components\\launches",
     "\\src\\generated"
   ],
-  "SelectedNode": "\\src\\components",
+  "SelectedNode": "\\src\\components\\launches\\Launch.css",
   "PreviewInSolutionExplorer": false
 }
